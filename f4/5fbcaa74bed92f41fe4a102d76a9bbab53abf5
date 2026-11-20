@@ -1,0 +1,32 @@
+src/index.ts
+  h_51acfbafc7319b 2,4
+  s_78d50404d43fca::t_136fa4378167ec 1,3,5
+package.json
+  h_51acfbafc7319b 1-9,12-15,18
+  h_51acfbafc7319b 10-11,16-17
+.gitignore
+  h_51acfbafc7319b 1-13
+tsconfig.json
+  h_51acfbafc7319b 1-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f45fbcaa74bed92f41fe4a102d76a9bbab53abf5",
+  "prompts": {},
+  "humans": {
+    "h_51acfbafc7319b": {
+      "author": "vitaliichyrka <vitalii.chyrka@codefresh.io>"
+    }
+  },
+  "sessions": {
+    "s_78d50404d43fca": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "59d5160d-bb4f-41ca-911a-a6a18a7e60a3",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "vitaliichyrka <vitalii.chyrka@codefresh.io>"
+    }
+  }
+}
