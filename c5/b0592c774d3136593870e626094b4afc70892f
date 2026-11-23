@@ -1,0 +1,21 @@
+package.json
+  s_c073d4c8ee8c58::t_d3aae8c36d5195 7-8,15-16,19-25
+test/js-utils.test.js
+  s_c073d4c8ee8c58::t_d3aae8c36d5195 1-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c5b0592c774d3136593870e626094b4afc70892f",
+  "prompts": {},
+  "sessions": {
+    "s_c073d4c8ee8c58": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8f394935-8413-465a-9279-263fa6b71b52",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "vitaliichyrka <vitalii.chyrka@codefresh.io>"
+    }
+  }
+}
