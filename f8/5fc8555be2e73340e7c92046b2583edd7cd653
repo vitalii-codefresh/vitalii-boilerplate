@@ -1,0 +1,14 @@
+test/js-utils.test.js
+  h_51acfbafc7319b 8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f85fc8555be2e73340e7c92046b2583edd7cd653",
+  "prompts": {},
+  "humans": {
+    "h_51acfbafc7319b": {
+      "author": "vitaliichyrka <vitalii.chyrka@codefresh.io>"
+    }
+  }
+}
