@@ -5,7 +5,7 @@ describe('@codefresh-io/js-utils AnotherExample', () => {
     const instance = new AnotherExample('test')
 
     expect(instance).toBeInstanceOf(AnotherExample)
-    expect(typeof instance.start).toBe('function')
+    expect(typeof instance.start).toBe('functions')
     expect(() => instance.start()).not.toThrow()
   })
 })
